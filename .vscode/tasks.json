@@ -1,0 +1,26 @@
+{
+	"version": "2.0.0",
+	"tasks": [
+		{
+			"type": "gradle",
+			"id": "/Users/mikediente/Documents/GitHub/kotlin-gradle-project-vs-codeapp:runapp",
+			"script": "app:run",
+			"description": "Runs this project as a JVM application",
+			"group": {
+				"kind": "build",
+				"isDefault": true
+			},
+			"project": "app",
+			"buildFile": "/Users/mikediente/Documents/GitHub/kotlin-gradle-project-vs-code/app/build.gradle.kts",
+			"rootProject": "TestGradleProject",
+			"projectFolder": "/Users/mikediente/Documents/GitHub/kotlin-gradle-project-vs-code",
+			"workspaceFolder": "/Users/mikediente/Documents/GitHub/kotlin-gradle-project-vs-code",
+			"args": "",
+			"javaDebug": false,
+			"problemMatcher": [
+				"$gradle"
+			],
+			"label": "gradle: app:run"
+		}
+	]
+}
